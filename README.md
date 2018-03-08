@@ -1,5 +1,7 @@
 # vim-nginx
 
+**DEPRECATED: This repository is deprecated. Please use https://github.com/fatih/vim-nginx**
+
 Standalone nginx vim syntax files repository suited for git submodule,
 pathogen, etc.
 
